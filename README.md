@@ -30,7 +30,7 @@
 ## 本地运行
 
 ```bash
-git clone https://github.com/Elowen-Z/tank-battle-html.git
+git clone https://github.com/YOUR_USERNAME/tank-battle-html.git
 cd tank-battle-html
 # 用浏览器打开 index.html
 ```
